@@ -57,11 +57,11 @@ php artisan storage:link
 ## Admin Credentials
 Admin: 
 ```bash 
-tauseed@test.com
+diya@test.com
 ```
 Password: 
 ```bash
-tauseed
+Diya@174
 ```
 
 ## If you like our project please leave a star ❤
